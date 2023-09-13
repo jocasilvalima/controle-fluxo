@@ -8,7 +8,7 @@ Para executar o programa, siga as etapas abaixo:
 
 1. Clone este repositório em sua máquina local:
 
-git clone
+git clone https://github.com/jocasilvalima/controle-fluxo
 
 
 2. Navegue até o diretório do projeto:
